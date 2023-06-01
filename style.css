@@ -2,11 +2,14 @@ body {
  background-color: #00ff0005;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
+
 }
+
 h1 {
   color: white;
   font-family: Arial, Helvetica, sans-serif; 
  }
+
 .Header {
   color: white;
   background-color: Grey;
@@ -26,22 +29,29 @@ h1 {
   border-bottom: 1px solid #202020;
   text-transform: uppercase;
 }
+
 .prof-exp {
   border-top: 1px solid #202020;
   border-bottom: 1px solid #202020;
 }
+
 .Footer {
   color: white;
   background-color: Grey;
   border: 10px solid black;
   margin-left: 20px;
+  
 }
 .img{
-  vertical-align: right; 
+  vertical-align: right;
+  
 }
+
 img{
- width: 100px;  
+ width: 100px;
+  
 }
+
 p, li {
   font-family: Arial, Helvetica, sans-serif;
    margin: 10% 20%;
